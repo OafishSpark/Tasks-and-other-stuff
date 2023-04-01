@@ -1,12 +1,6 @@
-﻿// Matrixxx.cpp : Этот файл содержит функцию "main". Здесь начинается и заканчивается выполнение программы.
-//
-
 #include <iostream>
 #include <vector>
 
-// Allah protect the code from bugs and glitches
-
-// Check the tasks in the end of this file, maan
 
 using Matrix = std::vector<std::vector<int>>;
 
@@ -248,8 +242,3 @@ int main()
     //
     std::cout << "The End!\n";
 }
-
-/************************************************  TASKS   ****************************************************************/
-/*
-    1) Seems to be done
-*/
